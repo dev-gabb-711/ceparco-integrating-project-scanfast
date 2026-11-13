@@ -24,7 +24,7 @@ Melanio, Marion Zane
 - <mark>Verify that the supporting preprocessing steps produce valid output.</mark>
 
 ## Video Demo Link
-***Placeholder here***
+https://drive.google.com/drive/folders/1DVK91jX6UPvwIydpXkNotMUrv7X8cDyG?usp=sharing 
 
 ## Project Initialization
 *Note: Sofia's VS version is VS 2022 with the latest version. It might be relevant if VS 2026 gamit niyo :D*
