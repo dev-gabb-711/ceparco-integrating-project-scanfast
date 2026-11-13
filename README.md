@@ -11,7 +11,17 @@ Maravilla, Sofia
 Melanio, Marion Zane
 
 ## Project Milestone Update
-***Placeholder here***
+### Milestone 1 — Baseline Infrastructure & Dataset Setup
+
+- <mark>Build a C test harness to load QR code images under different conditions, including clean images, salt-and-pepper noise, and uneven lighting.</mark>
+- <mark>Integrate the Quirc QR decoding library and establish the sequential C baseline.</mark>
+- <mark>Record baseline processing time and QR code decoding success.</mark>
+
+### Milestone 2 — Supporting Preprocessing Steps
+
+- <mark>Implement sequential C grayscale conversion using integer arithmetic.</mark>
+- <mark>Implement the selective median filter for salt-and-pepper noise.</mark>
+- <mark>Verify that the supporting preprocessing steps produce valid output.</mark>
 
 ## Video Demo Link
 ***Placeholder here***
